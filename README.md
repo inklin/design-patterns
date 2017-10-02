@@ -11,3 +11,9 @@ I created this as part of my goal to learn design patterns and write re-usable c
 1. The Adapter Pattern
 
 **Behavioural Patterns**
+
+## References
+
+## License
+
+MIT © [Stacey Lin](https://github.com/inklin)
