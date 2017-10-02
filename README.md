@@ -1,2 +1,13 @@
-# design-patterns
-Examples of design patterns in Javascript.
+# Design patterns
+
+> A look into design patterns with Javascript examples
+
+I created this as part of my goal to learn design patterns and write re-usable code with Object Oriented Programming.
+
+**Creational Design Patterns**
+
+**Structural Patterns**
+
+1. The Adapter Pattern
+
+**Behavioural Patterns**
