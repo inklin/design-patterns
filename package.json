@@ -1,0 +1,24 @@
+{
+  "name": "design-patterns",
+  "version": "1.0.0",
+  "description": "Examples of Design Patterns in JavaScript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/inklin/design-patterns.git"
+  },
+  "author": "Stacey Lin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/inklin/design-patterns/issues"
+  },
+  "homepage": "https://github.com/inklin/design-patterns#readme",
+  "dependencies": {
+    "query-string": "^5.0.0",
+    "request": "^2.83.0",
+    "request-promise": "^4.2.2"
+  }
+}

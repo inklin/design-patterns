@@ -2,7 +2,7 @@
 
 > A look into design patterns with Javascript examples
 
-I created this as part of my goal to learn design patterns and write re-usable code with Object Oriented Programming.
+This repo was created as part of my goal to learn design patterns and write re-usable code with Object Oriented Programming.
 
 **Creational Design Patterns**
 
