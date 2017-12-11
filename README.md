@@ -9,6 +9,8 @@ This repo was created as part of my goal to learn design patterns and write re-u
 **Structural Patterns**
 
 1. The Adapter Pattern
+2. The Facade Pattern
+3. The Decorator Pattern
 
 **Behavioural Patterns**
 
